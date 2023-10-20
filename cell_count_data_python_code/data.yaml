@@ -1,0 +1,6 @@
+train: /home/etriai04/Downloads/cell_count_data/train/images
+val: /home/etriai04/Downloads/cell_count_data/valid/images
+test: /home/etriai04/Downloads/cell_count_data/valid/images
+
+nc: 1
+names: ['pseudanabaena']

@@ -1,0 +1,6 @@
+train: /home/etriai04/Downloads/Pseudanabaena/train/images
+val: /home/etriai04/Downloads/Pseudanabaena/valid/images
+test: /home/etriai04/Downloads/Pseudanabaena/test/images
+
+nc: 1
+names: ['pseudanabaena']
